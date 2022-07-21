@@ -107,4 +107,4 @@
 --- 
 
 <!-- Snake -->
-<img src="https://raw.githubusercontent.com/Tontan-Hak/Tontan-Hak/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Tontan-Hak/Tontan-Hak/output/github-contribution-grid-snake.svg" />
