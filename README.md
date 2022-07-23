@@ -16,7 +16,7 @@
 **My Journey**
 - 🎓 I graduated from [Royal University of Phnom Penh, Cambodia](http://www.rupp.edu.kh/) in 2020 in major of Mathematics.
 - 🏫 I am currently work as Mathematics facilitator (2020 - now).
-- 🔭 I’m currently learning at Higher Diplomation Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
+- 🔭 I’m currently learning at Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
 
 <details>
   <summary>⏳ My mission</summary>
