@@ -92,7 +92,6 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
---- 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Tontan-Hak/Tontan-Hak)
 <a href="https://github.com/Tontan-Hak/Tontan-Hak/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Tontan-Hak" alt="Stars Badge"/></a>
 <a href="https://github.com/Tontan-Hak/Tontan-Hak/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Tontan-Hak" alt="Forks Badge"/></a>
