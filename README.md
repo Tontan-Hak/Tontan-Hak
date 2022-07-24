@@ -5,7 +5,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Tontan-Hak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> <a href="https://github.com/Tontan-Hak?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Tontan-Hak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> </p>
     
-# 💫 About Me : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Tontan-Hak/Tontan-Hak) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 💫 About Me : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 - 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
 - 🌱 I am doing more about learning: Python, C#, HTML, CSS, Java Script.
 - 👯 I’m looking for mentor to help me in software engineering.
@@ -93,6 +93,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 --- 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Tontan-Hak/Tontan-Hak)
 <a href="https://github.com/Tontan-Hak/Tontan-Hak/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Tontan-Hak" alt="Stars Badge"/></a>
 <a href="https://github.com/Tontan-Hak/Tontan-Hak/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Tontan-Hak" alt="Forks Badge"/></a>
 <a href="https://github.com/Tontan-Hak/Tontan-Hak/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Tontan-Hak" alt="Pull Requests Badge"/></a>
