@@ -62,11 +62,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="flask" width="40" height="40"/> </a>
 
-# 🐍 My Contribution Graph
-<p align="center">
-  <img src="https://github.com/Tontan-Hak/Tontan-Hak/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 # 💳 Github Profile Summary Card
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
