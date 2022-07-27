@@ -52,6 +52,9 @@
 	<img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
 </p>
 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 # 🌐 Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
 [![Instagram](https://img.shields.io/badge/Instagram-E34F26?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HakTontan)
@@ -78,9 +81,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="flask" width="40" height="40"/> </a>
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ## Contact me: 
 <p align="left">
