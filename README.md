@@ -23,7 +23,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-	💪 It should be one of our mission to improve everyday for the better
+	💪 Staying consistent and beating procrastination
 <!--END_SECTION:activity-->
 </details>
 
