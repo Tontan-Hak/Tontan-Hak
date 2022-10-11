@@ -41,7 +41,6 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=gruvbox" />
 </p>
 
-
 # 📈 Activity Graph
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Tontan-Hak&show_icons=true&theme=gruvbox"/>
