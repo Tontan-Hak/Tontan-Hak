@@ -13,19 +13,6 @@
 - 📫 How to reach me: **tontanhak97@gmail.com**
 - ⚡ Fun fact: When I finished high school, I want to be a Civil Engineer. I have a bachelor's degree in mathematics and become a teacher and now aspire to be a software Engineering.
 
-<img align="right" alt="GIF" src="https://github.com/Tontan-Hak/Tontan-Hak/blob/master/code.gif?raw=true" width="500" height="320" />
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   21 hrs 38 mins  ███████████████████████▓░   94.17 %
-JavaScript   1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-```
-
-<!--END_SECTION:waka-->
-
 **My Journey of education and experiences**
 - 🎓 I graduated from [Royal University of Phnom Penh, Cambodia](http://www.rupp.edu.kh/) in 2020 in major of Mathematics.
 - 🏫 I am currently work as Mathematics facilitator (2020 - now).
