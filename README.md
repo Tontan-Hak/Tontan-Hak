@@ -8,7 +8,7 @@
 # 💫 About Me : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 - 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
 - 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
-- 🌱 I am doing more about learning: Python, C#, HTML.
+- 🌱 I'm learning more about Python, C#, and HTML.
 - 👯 I’m looking for collaboration.
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: **tontanhak97@gmail.com**
