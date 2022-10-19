@@ -29,30 +29,6 @@
 
 	I am happy when I can improve myself just 1% everyday
 
-
-# 💳 Github Profile Summary Card
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
-  <img width="36.5%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
-</p>
-
-# 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tontan-Hak&show_icons=true&theme=gruvbox" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=gruvbox" />
-</p>
-
-# 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Tontan-Hak&show_icons=true&theme=gruvbox"/>
-</p>
-
-# 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak)](https://github.com/Tontan-Hak/github-readme-stats)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
 # 🌐 Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
 [![Instagram](https://img.shields.io/badge/Instagram-E34F26?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HakTontan)
@@ -88,6 +64,30 @@
 <a href="https://instagram.com/hak_tontan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hak_tontan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCG1pHGoLj4rOzUskrGvIh9w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hak Tontan" height="30" width="40" /></a>
 </p>
+
+# 💳 Github Profile Summary Card
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
+  <img width="36.5%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
+</p>
+
+# 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tontan-Hak&show_icons=true&theme=gruvbox" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=gruvbox" />
+</p>
+
+# 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=Tontan-Hak&show_icons=true&theme=gruvbox"/>
+</p>
+
+# 💻 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak)](https://github.com/Tontan-Hak/github-readme-stats)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
 
 ## License 
 
