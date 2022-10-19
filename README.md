@@ -50,10 +50,11 @@
 <p align="center">
 	<img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact">
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact)](https://github.com/Tontan-Hak/Tontan-Hak)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 # 🌐 Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
