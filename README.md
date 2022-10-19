@@ -65,16 +65,16 @@
 <a href="https://www.youtube.com/channel/UCG1pHGoLj4rOzUskrGvIh9w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hak Tontan" height="30" width="40" /></a>
 </p>
 
-# 💳 Github Profile Summary Card
-<p align="center">
-  <img width="36.5%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
-</p>
-
 # 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tontan-Hak&show_icons=true&theme=gruvbox" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=gruvbox" />
+</p>
+
+# 💳 Github Profile Summary Card
+<p align="center">
+  <img width="36.5%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
 </p>
 
 # 📈 Activity Graph
