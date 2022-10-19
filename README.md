@@ -32,8 +32,8 @@
 
 # 💳 Github Profile Summary Card
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
-  <img width="30%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
+  <img width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact">
 </p>
 
 # 📟 GitHub Stats
