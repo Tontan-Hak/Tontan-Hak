@@ -50,7 +50,7 @@
 <p align="center">
 	<img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Tontan-Hak/Tontan-Hak)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact)](https://github.com/Tontan-Hak/Tontan-Hak)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
