@@ -53,7 +53,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact)](https://github.com/Tontan-Hak/Tontan-Hak)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tontan-Hak&repo=github-readme-stats)](https://github.com/Tontan-Hak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak)](https://github.com/Tontan-Hak/github-readme-stats)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
