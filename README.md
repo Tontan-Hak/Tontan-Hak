@@ -48,7 +48,7 @@
 
 # 💻 Most Used Languages
 <p align="center">
-	<img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
+	<img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact">
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact)](https://github.com/Tontan-Hak/Tontan-Hak)
 
