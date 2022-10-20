@@ -83,7 +83,7 @@
 </p>
 
 # 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak)](https://github.com/Tontan-Hak/github-readme-stats&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&theme=gruvbox)](https://github.com/Tontan-Hak/github-readme-stats)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
