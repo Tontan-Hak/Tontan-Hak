@@ -1,5 +1,7 @@
 ![Brown and Green Chemistry Class Google Classroom Header](https://user-images.githubusercontent.com/85992213/179496446-39d893fd-09e3-43c9-9c7e-ef5812cf67a5.png)
-
+<p align="right">
+<img alt="Coder GIF" height=300 width=335 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tontan-Hak&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="Tontan-Hak" /> 
 <a href="https://github.com/Tontan-Hak?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Tontan-Hak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> <a href="https://github.com/Tontan-Hak?tab=followers">
@@ -32,8 +34,6 @@
 <p align="right">
 <img alt="Coder GIF" height=300 width=335 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 </p>
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 🌐 Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
