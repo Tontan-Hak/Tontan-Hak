@@ -1,5 +1,5 @@
 ![Brown and Green Chemistry Class Google Classroom Header](https://user-images.githubusercontent.com/85992213/179496446-39d893fd-09e3-43c9-9c7e-ef5812cf67a5.png)
-<img align="center" alt="Coding" width="500" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
+<img align="right" alt="Coding" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tontan-Hak&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="Tontan-Hak" /> 
 <a href="https://github.com/Tontan-Hak?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Tontan-Hak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> <a href="https://github.com/Tontan-Hak?tab=followers">
