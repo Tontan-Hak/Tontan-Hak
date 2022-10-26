@@ -1,5 +1,5 @@
 ![Brown and Green Chemistry Class Google Classroom Header](https://user-images.githubusercontent.com/85992213/179496446-39d893fd-09e3-43c9-9c7e-ef5812cf67a5.png)
-<img align="right" alt="Coding" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tontan-Hak&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="Tontan-Hak" /> 
 <a href="https://github.com/Tontan-Hak?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Tontan-Hak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> <a href="https://github.com/Tontan-Hak?tab=followers">
@@ -28,10 +28,6 @@
 </details>
 
 	I am happy when I can improve myself just 1% everyday
-
-<p align="right">
-<img alt="Coder GIF" height=300 width=335 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-</p>
 
 # 🌐 Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
