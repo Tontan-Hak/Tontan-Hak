@@ -8,13 +8,13 @@
 - 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
 - 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
 - 🌱 I'm learning more about Python, C#, and HTML.
+<p align="right">
+<img alt="Coder GIF" height=250 width=335 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+</p>
 - 👯 I’m looking for collaboration.
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: **tontanhak97@gmail.com**
 - ⚡ Fun fact: When I finished high school, I want to be a Civil Engineer. I have a bachelor's degree in mathematics and become a teacher and now aspire to be a Computer Science.
-<p align="right">
-<img alt="Coder GIF" height=300 width=335 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-</p>
 
 **My Journey of education and experiences**
 - 🏫 Currently, I am employed in the role of a Mathematics Facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/)(2020 - now).
