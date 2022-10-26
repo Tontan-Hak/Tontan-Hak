@@ -30,7 +30,7 @@
 	I am happy when I can improve myself just 1% everyday
 
 <p align="center">
-<img alt="Coder GIF" height=500 width=600 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img alt="Coder GIF" height=300 width=335 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 </p>
 
 # 🌐 Check social links below
