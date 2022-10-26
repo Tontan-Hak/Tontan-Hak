@@ -3,10 +3,6 @@
 <a href="https://github.com/Tontan-Hak?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Tontan-Hak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> <a href="https://github.com/Tontan-Hak?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Tontan-Hak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> </p>
-<p align="right">
-<img alt="Coder GIF" height=300 width=335 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-</p>
-
 
 # 💫 About Me : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 - 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
@@ -16,6 +12,9 @@
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: **tontanhak97@gmail.com**
 - ⚡ Fun fact: When I finished high school, I want to be a Civil Engineer. I have a bachelor's degree in mathematics and become a teacher and now aspire to be a Computer Science.
+<p align="right">
+<img alt="Coder GIF" height=300 width=335 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+</p>
 
 **My Journey of education and experiences**
 - 🏫 Currently, I am employed in the role of a Mathematics Facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/)(2020 - now).
