@@ -101,5 +101,3 @@
 <a href="https://github.com/Tontan-Hak/Tontan-Hak/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Tontan-Hak" alt="Issues Badge"/></a>
 <a href="https://github.com/Tontan-Hak/Tontan-Hak/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Tontan-Hak?color=2b9348"></a>
 <a href="https://github.com/Tontan-Hak/Tontan-Hak/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Tontan-Hak?color=2b9348" alt="License Badge"/></a>
-
---- 
