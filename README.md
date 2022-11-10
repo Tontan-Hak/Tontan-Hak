@@ -20,7 +20,7 @@
 - 🎓 I graduated from [Royal University of Phnom Penh, Cambodia](http://www.rupp.edu.kh/) in 2020 in major of Mathematics.
 
 <details>
-  <summary>⏳ My mission</summary>
+  <summary>⏳ To-do</summary>
   <br/>
 
 <!--START_SECTION:activity-->
