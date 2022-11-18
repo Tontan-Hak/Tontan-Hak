@@ -10,6 +10,7 @@
 - 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
 - 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
 - 🌱 I'm learning more about Python, C#, and HTML.
+- 👀 I’m interested in Software Engineering
 - 👯 I’m looking for collaboration.
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: **tontanhak97@gmail.com**
