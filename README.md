@@ -85,14 +85,19 @@
 
 # 💻 Most Used Languages
 
-<div align="right">
+<div align="center">
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&theme=gruvbox)](https://github.com/Tontan-Hak/github-readme-stats)
 
 </div>
 
 ## ✍️ Random Dev Quote
+
+<div align="center">
+	
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+</div>
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
