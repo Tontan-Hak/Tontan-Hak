@@ -8,7 +8,6 @@
 # 💫 About Me : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
-- 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
 - 🌱 I'm learning more about Python, C#, and HTML.
 - 👀 I’m interested in Software Engineering
 - 👯 I’m looking for collaboration.
@@ -17,6 +16,7 @@
 - ⚡ Fun fact: When I finished high school, I want to be a Civil Engineer. I have a bachelor's degree in mathematics and become a teacher and now aspire to be a Computer Science.
 
 **My Journey of education**
+- 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
 - 🏫 Currently, I am employed in the role of a Mathematics Facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/)(2020 - now).
 - 🎓 I graduated from [Royal University of Phnom Penh, Cambodia](http://www.rupp.edu.kh/) in 2020 in major of Mathematics.
 
