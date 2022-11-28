@@ -8,7 +8,7 @@
 # 💫 About Me : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
-- 🌱 I'm learning more about Python, C#, and HTML.
+- 🌱 I'm learning more about HTML, CSS, Java Script, Python, and C#.
 - 👀 I’m interested in Software Engineering
 - 👯 I’m looking for collaboration.
 - 💬 Ask me about Math or any tech-related stuff.
