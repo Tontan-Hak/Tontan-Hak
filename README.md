@@ -78,11 +78,6 @@
   <img width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
 </p>
 
-# 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Tontan-Hak&show_icons=true&theme=gruvbox"/>
-</p>
-
 # 💻 Most Used Languages
 
 <div align="center">
