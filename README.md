@@ -13,7 +13,7 @@
 - 👯 I’m looking for collaboration.
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: **tontanhak97@gmail.com**
-- ⚡ Fun fact:I have a bachelor's degree in mathematics and become a teacher and now aspire to be a Computer Science.
+- ⚡ Fun fact:I have a bachelor's degree in mathematics and become a teacher and now aspire to be a Computer scientist.
 
 **My Journey of education**
 - 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
