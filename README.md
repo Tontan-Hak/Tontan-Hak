@@ -69,13 +69,13 @@
 # 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tontan-Hak&show_icons=true&theme=gruvbox" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=gruvbox" />
+	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=gruvbox" />
 </p>
 
 # 💳 Github Profile Summary Card
 <p align="center">
   <img width="37.5%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
-  <img width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
 </p>
 
 # 💻 Most Used Languages
