@@ -13,7 +13,7 @@
 - 👯 I’m looking for collaboration.
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: **tontanhak97@gmail.com**
-- 📄 Know about my experiences [resume link](https://www.canva.com/design/DAFj0qVY3ns/3VACDdr7TI-uvihrqJqrZw/view?utm_content=DAFj0qVY3ns&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 My [resume link](https://www.canva.com/design/DAFj0qVY3ns/3VACDdr7TI-uvihrqJqrZw/view?utm_content=DAFj0qVY3ns&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - 🔎 My [Portfolio](https://sites.google.com/view/tontan-hak/home)
 - ⚡ Fun fact:I have a bachelor's degree in mathematics and become a teacher and now aspire to be a Software Engineering.
 
