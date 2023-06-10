@@ -16,10 +16,12 @@
 - 📄 My [resume link](https://www.canva.com/design/DAFj0qVY3ns/3VACDdr7TI-uvihrqJqrZw/view?utm_content=DAFj0qVY3ns&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - 🔎 My [Portfolio](https://sites.google.com/view/tontan-hak/home)
 - ⚡ Fun fact:I have a bachelor's degree in mathematics and become a teacher and now aspire to be a Software Engineering.
+ 
 **Academic Qualification**
 - 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/)(2022 - now).
 - 🎓 I graduated from [Royal University of Phnom Penh, Cambodia](http://www.rupp.edu.kh/) in 2020 in major of Mathematics.
 - 🎓 I am a former student in Enfant du mekong from 2016 - 2020. 
+
 **Professional Experiences**
 - 🏫 Currently, I am employed in the role of a Mathematics Facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/)(2020 - now).
 <details>
