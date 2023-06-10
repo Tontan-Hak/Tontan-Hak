@@ -17,7 +17,7 @@
 - 🔎 My [Portfolio](https://sites.google.com/view/tontan-hak/home)
 - ⚡ Fun fact:I have a bachelor's degree in mathematics and become a teacher and now aspire to be a Software Engineering.
 
-**My Journey of education**
+**Academic Qualification**
 - 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/)(2022 - now).
 - 🏫 Currently, I am employed in the role of a Mathematics Facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/)(2020 - now).
 - 🎓 I graduated from [Royal University of Phnom Penh, Cambodia](http://www.rupp.edu.kh/) in 2020 in major of Mathematics.
