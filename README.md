@@ -98,14 +98,3 @@
 
 </div>
 
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Tontan-Hak/Tontan-Hak)
-<a href="https://github.com/Tontan-Hak/Tontan-Hak/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Tontan-Hak" alt="Stars Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Tontan-Hak/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Tontan-Hak" alt="Forks Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Tontan-Hak/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Tontan-Hak" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Tontan-Hak/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Tontan-Hak" alt="Issues Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Tontan-Hak/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Tontan-Hak?color=2b9348"></a>
-<a href="https://github.com/Tontan-Hak/Tontan-Hak/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Tontan-Hak?color=2b9348" alt="License Badge"/></a>
-
