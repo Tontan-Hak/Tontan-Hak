@@ -10,7 +10,7 @@
 - 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
 - 🌱 I'm learning more about HTML, CSS, Java Script, Python, and C#.
 - 👀 I’m interested in Software Engineering
-- 👯 I’m looking for collaboration.
+- 👯 I’m looking for collaboration to work on a startup.
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: **tontanhak97@gmail.com**
 - 📄 My [resume link](https://www.canva.com/design/DAFj0qVY3ns/3VACDdr7TI-uvihrqJqrZw/view?utm_content=DAFj0qVY3ns&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
