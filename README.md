@@ -8,9 +8,9 @@
 # 💫 About Me : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
-- 🌱 I'm learning more about HTML, CSS, Java Script, Python, and C#.
+- 🌱 I'm learning more about HTML, CSS, JavaScript, Python, C# and Flutter.
 - 👀 I’m interested in Software Engineering
-- 👯 I’m looking for collaboration to work on a startup.
+- 👯 I’m looking for a collaboration to work on a startup.
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: **tontanhak97@gmail.com**
 - 📄 My [resume link](https://www.canva.com/design/DAFj0qVY3ns/3VACDdr7TI-uvihrqJqrZw/view?utm_content=DAFj0qVY3ns&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
@@ -18,9 +18,9 @@
 - ⚡ Fun fact:I have a bachelor's degree in mathematics and become a teacher and now aspire to be a Software Engineering.
  
 **Academic Qualification**
-- 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/)(2022 - present).
+- 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/) (2022 - present).
 - 🎓 I graduated from [Royal University of Phnom Penh, Cambodia](http://www.rupp.edu.kh/) in 2020 in major of Mathematics.
-- 🎓 I am a former student in Enfant du mekong from 2016 - 2020. 
+- 🎓 I am a former student in Enfant du Mekong from 2016 - 2020. 
 
 **Professional Experiences**
 - 🚀 I currently work for [E2stem education, Cambodia](https://e2stem.org.kh/) as a mathematics facilitator (2020 - present).
