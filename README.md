@@ -24,16 +24,6 @@
 
 **Professional Experiences**
 - 🚀 I currently work for [E2stem education, Cambodia](https://e2stem.org.kh/) as a mathematics facilitator (2020 - present).
-<details>
-  <summary>⏳ To-do</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-	💪 Staying consistent and beating procrastination
-<!--END_SECTION:activity-->
-</details>
-
-	I am happy when I can improve myself just 1% everyday
 
 # 🌐 Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
@@ -98,3 +88,15 @@
 
 </div>
 
+<details>
+  <summary>⏳ To-do</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+	💪 Staying consistent and beating procrastination
+<!--END_SECTION:activity-->
+</details>
+
+	I am happy when I can improve myself just 1% everyday
+
+ -----
