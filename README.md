@@ -23,7 +23,7 @@
 - 🎓 I am a former student in Enfant du Mekong from 2016 - 2020. 
 
 **Professional Experiences**
-- 🚀 I currently work for [E2stem education, Cambodia](https://e2stem.org.kh/) as a mathematics facilitator (2020 - present).
+- 🚀 I currently work for [E2stem education, Cambodia](https://e2stem.org.kh/) as a learning facilitator (2020 - present).
 
 -----
 # 🌐 Check social links below
