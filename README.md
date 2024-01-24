@@ -6,7 +6,7 @@
 
 # 💫 About Me : ![](https://komarev.com/ghpvc/?username=Tontan-Hak&color=brightgreen&label=VISITORS)
 
-- 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
+- 🚀 I’m currently a learning facilitator at [Methodist School of Cambodia](https://methodist.edu.kh/).
 - 🌱 I'm learning more about HTML, CSS, JavaScript, Python, C# and Flutter.
 - 👀 I’m interested in Software Engineering
 - 👯 I’m looking for a collaboration to work on a startup.
@@ -17,12 +17,13 @@
 - ⚡ Fun fact:I have a bachelor's degree in mathematics and become a teacher and now aspire to be a Software Engineering.
  
 **Academic Qualification**
-- 🔭 I’m currently learning in Higher Diploma in Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/) (2022 - present).
+- 🔭 I’m currently learning in Higher Diploma in Software Development at [E2STEM Education, Cambodia](https://e2stem.org.kh/) (2022 - present).
 - 🎓 I graduated from [Royal University of Phnom Penh, Cambodia](http://www.rupp.edu.kh/) in 2020 in major of Mathematics.
 - 🎓 I am a former student in Enfant du Mekong from 2016 - 2020. 
 
 **Professional Experiences**
-- 🚀 I currently work for [E2stem education, Cambodia](https://e2stem.org.kh/) as a learning facilitator (2020 - present).
+- 🚀 I currently work as a senior mathematics teacher at [Methodist School of Cambodia](https://methodist.edu.kh/) (2023 - Present)
+- 🔑🔭 I am a former learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/) from (2020 - 2023).
 
 -----
 # 🌐 Check social links below
