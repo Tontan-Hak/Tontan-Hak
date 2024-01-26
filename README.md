@@ -6,7 +6,7 @@
 
 # 💫 About Me : ![](https://komarev.com/ghpvc/?username=Tontan-Hak&color=brightgreen&label=VISITORS)
 
-- 🚀 I’m currently a learning facilitator at [Methodist School of Cambodia](https://methodist.edu.kh/).
+- 🚀 I’m currently work as a learning facilitator in Mathematics at [Methodist School of Cambodia](https://methodist.edu.kh/).
 - 🌱 I'm learning more about HTML, CSS, JavaScript, Python, C# and Flutter.
 - 👀 I’m interested in Software Engineering
 - 👯 I’m looking for a collaboration to work on a startup.
