@@ -23,7 +23,7 @@
 
 **Professional Experiences**
 - 🚀 I currently work as a senior mathematics teacher at [Methodist School of Cambodia](https://methodist.edu.kh/) (2023 - Present)
-- 🔑🔭 I am a former learning facilitator at [E2STEM Education, Cambodia](https://e2stem.org.kh/) from (2020 - 2023).
+- 🔑 I am a former learning facilitator at [E2STEM Education, Cambodia](https://e2stem.org.kh/) from (2020 - 2023).
 
 -----
 # 🌐 Check social links below
